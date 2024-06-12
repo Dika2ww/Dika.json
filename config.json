@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6283895445320@s.whatsapp.net","62887435047326@s.whatsapp.net"],
+    "ownerName": "Dikz Ganteng",
+    "instagram" : "dik_sukamotret",
+    "gcwa" : "not available ",
+    "botName": "DikaRawrོ ",
+    "footer": "2024 © api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "I6WEqkeTMkfsTpX",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
